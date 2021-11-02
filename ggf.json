@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "insurancebot-330911",
+  "private_key_id": "46d48ad7691ae652a7b7876c999dd532957533dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaZGw2BBeufxRS\nCrcdrarhBAINAAAqYamuzqVXUri5mfd6W6YhcpdGwisoE9eYqPSyvNCY7/fA6wnv\nnowL3CInF8aMvaQbAwJIpAYUCXzu9OoSUHM5No7wuIF2rcyqpzgkEPVyKPsrpqnf\n9x3SVj+MQK0+3xftX+nx+/oR2Slu/QfZs+xD7ZnAf2TeyJ5C7yqhpsGlu2sDhfh9\nGQoPvuW2lzbnclRojF1BLQPrabaYRD3AnCoSArezGjztARVNWjYa7pWYQ5uzghEB\nlKfLjW1HVccnjck5Kft/7JHU/RtyBjPDwaTx/SFmaPU5AptTn1x7zRbtmggAoeZ3\nlq2qonX1AgMBAAECggEAMgpxflJ2QIME2ZCKiG6FD5iGd6Mz6oisADIPKg3wPIv4\nR+rTnkyvVmpRpZRE0UCVyybir2c71IX5uvYW6zMmyKfunShMO8sOXu/23mCy4xpz\nkYsMxZL24nPS1l3/k6JOUnZCr4Uz35KNxb8pJcb5ouJFpLaXYUMwptNmWomZ4dRV\nQM/1NEZCSFLorv3JrkJb95y7w7/1xUYBJ3lmH9OuoPj2U3sfhyAuAh+L72g9sF8w\nO5EkSvqYxOSWC9VDZMzcRhZrahBUc4tcp24JDppf0txaxVu6/O1uMOqlFke0HiOh\nwV8JMyhXaVMembviHSLVHRC3o4W4lEWLvnOupnBgYwKBgQDREZ6do2T7kPGEo6R7\no7VqQozkTl4ZbRt/br+5Qf8jsZWmgNzout0ZdtN7lqj5u9/A1SUuOc8jzBK2zPZE\nCg37f7KCp1x0XEOlUX+yzCQ1SdUEctxU1JKKtgDZDo82kjS7mCJ7bW1PNi3w7FHU\ntZtwfGQ3x9wmahU2PPHnWzOrewKBgQC9DMCWl5LTPj/JIPb+K6XIIhwuGFewsrwI\n62p22tPik2qCG52V7emhZMs9x1iXG2a3X9VNr/k/60eIPcIqfPskmzbZdz+SdZxc\n16hvn7hMSe8QVeAAORRI2cVfZjcypBSA1GL/ky+usAWzPxWLH3cXt5UeIK5+6dUj\nWUGd2DoxTwKBgQDML08gWiIX51lZ15CfCCX334NGvpr8bij67ijlP+V08M1dTmFy\nEn45jmnBPEVPkgNXi1PCr8b0CS0Fx2uEy+UYCYFIRTfwlOOkI9J5xxJd0PvwWlWB\nrBJq0pJFawjHnUdPJ6gVr6ugPyPjNoo9GhjzZSljqRgDlHue+yqub84o3QKBgHj9\na1g1o5MseLgpL8oVdyExq2VY0O5WRX9T4ywz+n08qWKhd+ZXgDl5f5WHOkxjDgb3\n/1Sb9eIRmxM3q0dz+2s/JwhgiEAcozjMEJF34AR7INQMkbKy1SeWr/nROixf1Htq\n8fztXwvmvY8tJYWHWrnEFVxVwDebQXxBCHyTwRKDAoGAMwxnxJzkbC21hxtCTJ5a\n+36OCnmPcQMyFbJtZOvc7Amqk7Gl+lb9GSf9/cFRBNDS9DCpa4MDamoPRKgt/FRP\nlCxEGiBwkwO60YHvQCTrDsw7OmAvcjlac2H648wgUdMkPTr1EjuslKqODmmLVBqq\n9weWgOXFk/KD66lgsS2vlZE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-bigquery-sa@insurancebot-330911.iam.gserviceaccount.com",
+  "client_id": "108409136568530034568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-bigquery-sa%40insurancebot-330911.iam.gserviceaccount.com"
+}
